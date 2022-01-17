@@ -1,0 +1,6 @@
+linux基本命令
+ls查看⽂件⽬录列表
+mkdir <⽬录名> 创建⽬录
+cd <⽬录名> 进⼊某个⽬录
+vim hello.c 创建c语言文件
+gcc -o hello hello.c 制定目标名称
